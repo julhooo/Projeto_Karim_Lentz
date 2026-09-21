@@ -16,4 +16,8 @@ public:
     void MD2() { 
         cout << "Metodo MD2" << endl; 
     }
+
+    void MD4() {
+        cout << "Metodo MD4" << endl;
+    }
 };
