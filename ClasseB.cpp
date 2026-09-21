@@ -23,4 +23,8 @@ public:
     void MB2() {
         cout << "Metodo MB2" << endl;
     }
+
+    void MB3() { 
+        cout << "Metodo MB3" << endl; 
+    }
 };
