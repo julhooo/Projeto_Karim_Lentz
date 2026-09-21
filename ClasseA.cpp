@@ -27,4 +27,8 @@ public:
     void MA3() {
         std::cout << "Alteração a classe A partir do clone" << std::endl;
     }
+
+    int getSoma(int a, int b){
+        return (a+b);
+    }
 };
