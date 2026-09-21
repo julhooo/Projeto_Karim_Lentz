@@ -20,4 +20,8 @@ public:
     void MD3() {
         cout << "Metodo MD3" << endl;
     }
+
+    void MD4() {
+        cout << "Metodo MD4" << endl;
+    }
 };
